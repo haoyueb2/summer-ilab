@@ -17,7 +17,7 @@
     ├── Girshick_Fast_R-CNN_ICCV_2015_paper.pdf	        # Ross Girshick对R-CNN进行改进的一篇文章
     ├── Other\ Resources.md				# 其他的一些互联网上的文字、视频资源	
     ├── Paper-Mask_RCNN.pdf				# Mask-RCNN论文原文
-    └── songzhaoyi_note.pdf             # 部分笔记
+    └── songzhaoyi_note.pdf                     # 部分笔记
 ```
 
 ## 进展
