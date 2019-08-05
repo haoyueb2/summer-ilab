@@ -12,12 +12,12 @@
 │   └── songzhaoyi_inspect_balloon_data.ipynb
 └── document
     ├── Andrew.Ng_ObjectDetection.pdf			# 吴恩达Coursera课程笔记中目标检测部分
+    ├──baihaoyue_笔记.pdf			        # 深度学习基础部分和部分卷积网络的笔记
     ├── faster-r-cnn.pdf                                # Girshick对Fast R-CNN的进一步改进
     ├── Girshick_Fast_R-CNN_ICCV_2015_paper.pdf	        # Ross Girshick对R-CNN进行改进的一篇文章
     ├── Other\ Resources.md				# 其他的一些互联网上的文字、视频资源	
-    ├── baihaoyue_笔记.pdf			# 深度学习基础部分和部分卷积网络的笔记
-    └── Paper-Mask_RCNN.pdf				# Mask-RCNN论文原文
-    
+    ├── Paper-Mask_RCNN.pdf				# Mask-RCNN论文原文
+    └── songzhaoyi_note.pdf             # 部分笔记
 ```
 
 ## 进展
