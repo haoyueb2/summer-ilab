@@ -21,5 +21,5 @@
 
 - [x] 本地配置好了Keras, Tesorflow, PyTorch等深度学习框架以及相应的包；
 - [x] 结合视频资源和学习笔记，学习了吴恩达老师神经网络课程中的基本概念和目标检测部分；
-- [x] 结合论文原文和网上的翻译、介绍大致了解了Fast R-CNN, Faster R-CNN, YOLO, Mask R-CNN等目标检测算法（未能深入理解）；
+- [x] 结合论文原文和网上的翻译、介绍大致了解了Fast R-CNN, Faster R-CNN, YOLO, Mask R-CNN等目标检测算法；
 - [x] 本地运行了Mask R-CNN的GitHub给出的demo。
